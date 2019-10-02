@@ -1,5 +1,5 @@
 # Graph-function-to-plot-numerical-and-categorical-variable
-Import matplotlib,seaborn to plot histogram,barplot and boxplot
+# Import matplotlib,seaborn to plot histogram,barplot and boxplot
 Import os 
 Import pandas for loading the dataset
 Use definition function and pass data in form of csv ,coloum=none and directory =None
